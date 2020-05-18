@@ -8,3 +8,6 @@
 
 
 <p>Aplicação pode ser testada <a href="https://integrations.eu-gb.assistant.watson.cloud.ibm.com/web/public/419ecf15-fe66-4d65-86ce-731da836b0c6" target="_blank">aqui</a></p>
+
+<p>Também temos uma simulação aqui:</p>
+<img src="https://github.com/rayanepimentel/chatbot-ariel/blob/master/simulacao-ariel.gif">
