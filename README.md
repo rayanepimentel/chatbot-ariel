@@ -1,1 +1,4 @@
-# chatbot-ariel
+#Chatbot Ariel
+
+Tecnologias usadas:
+IBM Watson e Node.js
